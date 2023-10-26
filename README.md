@@ -7,5 +7,17 @@
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/css3.svg" />
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/javascript.svg" />
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/react.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/nodedotjs.svg" />
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/github.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/jquery.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/linux.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/virtualbox.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/docker.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/mysql.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/mongodb.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/microsoftsqlserver.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/mariadb.svg" />
+<img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/adobephotoshop.svg" />
 </div>
