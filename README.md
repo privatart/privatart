@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, this is <a href="https://www.linkedin.com/in/artem-opolonyk-89a210293/" target="_blank">Artem Opolonyk</a> GitHub</h1>
+<h1 style="text-align: center;">Welcome, this is <a href="https://www.linkedin.com/in/artem-opolonyk-89a210293/" target="_blank">Artem Opolonyk</a> GitHub</h1>
 
 <img align="center" src="https://github.com/privatart/privatart/blob/main/git-meta.jpg" />
 
