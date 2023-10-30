@@ -21,3 +21,7 @@
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/mariadb.svg" />
 <img height="32" width="32" src="https://github.com/privatart/privatart/blob/main/icons/adobephotoshop.svg" />
 </div>
+
+## Contacts:
+[![Linkedin](https://github.com/privatart/privatart/blob/main/icons/linkedin.svg)](https://www.linkedin.com/in/artem-opolonyk-89a210293/)
+[![Gmail](https://github.com/privatart/privatart/blob/main/icons/gmail.svg)](mailto:a.opolonyk@gmail.com)
